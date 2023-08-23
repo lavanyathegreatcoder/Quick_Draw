@@ -1,0 +1,24 @@
+body
+{
+    background-color: aquamarine;
+    
+}
+
+#score
+{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+#timer
+{
+    font-size: 20px;
+    float: right;
+    margin-right: 200px;
+}
+
+#label
+{
+    text-decoration-color: darkred;
+    font-size: 15;
+}
